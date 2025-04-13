@@ -67,8 +67,3 @@ Este projeto realiza uma Análise de Cesta de Compras utilizando dados transacio
 * Heatmap (Matriz de Confiança ou Lift).
 * Grafo de Rede (visualizando conexões entre produtos/categorias).
 
-*(Opcional: Você pode adicionar screenshots das suas visualizações aqui)*
-
----
-
-*README atualizado em Domingo, 13 de Abril de 2025, 00:15 em São Carlos, Brasil.*
